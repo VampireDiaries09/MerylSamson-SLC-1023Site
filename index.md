@@ -2,6 +2,7 @@
 layout: default
 ---
 
+Meryl Jeams Samson - Student No 4372582
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
